@@ -2,6 +2,7 @@
 > <p>Finetune a GPT-2 Text-Generating Model with prepared text.<br>
 In this particual case text is concatenation of books <br>
 from the field of Management, Leadership and good practices in Business.<br>
+Start sentence was containing kind of contradiction to find out how finetuned model create a follow up
 355M model was used for tuning:<br>
 Effects are really good.
 
