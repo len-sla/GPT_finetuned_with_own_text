@@ -34,7 +34,7 @@ Of course, you can bring in people to assist, but that is a small step and not a
 ---
 
 
-## Exploring further possibilities of GPT=2 
+## Exploring further possibilities of GPT2 
 All the activities above are easiest option to get possibility of generating text in any language.
 However, there is another option
 
