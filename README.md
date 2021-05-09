@@ -17,7 +17,7 @@ There are three released sizes of GPT-2:
 *  1558M: the "extra large", true model. Will not work if a K80 GPU is attached to the notebook. (like 774M, it cannot be finetuned).
    Larger models have more knowledge, but take longer to finetune and longer to generate text. You can specify which base model to use by changing model_name.
 
- ##Other examples with diffrent  prefixes which  are sometimes interesting, crude or surprising:
+##  Other examples with diffrent  prefixes which  are sometimes interesting, crude or surprising:
 
  <p>-->  You don't need to look behind <br>you to see solutions to problems; you can see them in the mirror.<br>
 That helps you recognize the solutions you already have in your mind and moves you to action.</p>
