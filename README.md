@@ -19,17 +19,17 @@ There are three released sizes of GPT-2:
 
 ##  Other examples with diffrent  prefixes which  are sometimes interesting, crude or surprising:
 
-_You don't need to look behind <br>you to see solutions to problems; you can see them in the mirror.<br>
+*   _You don't need to look behind <br>you to see solutions to problems; you can see them in the mirror.<br>
 That helps you recognize the solutions you already have in your mind and moves you to action._
 																																																						
-_You don't need to look behind <br> you as you make your way up the ladder to know you are needed. <br>
+*   _You don't need to look behind <br> you as you make your way up the ladder to know you are needed. <br>
 You can recognize yourself in the crowd.<br>
 You can tell when others are glancing at you, or judging you. You can be vulnerable.<br>
 And if you’re trying to be strong, you are._
 
-<p> -->  Flexibility is the worst possible approach to leadership.<br> When you are the boss, you should be able to assign people and projects to whomever you want,<br>
+*   _Flexibility is the worst possible approach to leadership.<br> When you are the boss, you should be able to assign people and projects to whomever you want,<br>
 when you want, for as long as you want. But you can’t  expect other people to do all the work for you.<br>
-Of course, you can bring in people to assist, but that is a small step and not a big enough one. Start slowly and build your trust.</p>
+Of course, you can bring in people to assist, but that is a small step and not a big enough one. Start slowly and build your trust._
 
 ---
 
