@@ -8,14 +8,7 @@ Effects are really good.
 
 ![### comparing local and online translator result ](gpt00.JPG)
 
-### General info
-There are three released sizes of GPT-2:
 
-* 124M (default): the "small" model, 500MB on disk.
-* 355M: the "medium" model, 1.5GB on disk.
-* 774M: the "large" model, cannot currently be finetuned with Colaboratory but can be used to generate text from the pretrained model (see later in Notebook)
-*  1558M: the "extra large", true model. Will not work if a K80 GPU is attached to the notebook. (like 774M, it cannot be finetuned).
-   Larger models have more knowledge, but take longer to finetune and longer to generate text. You can specify which base model to use by changing model_name.
 
 ##  Other examples with diffrent  prefixes which  are sometimes interesting, crude or surprising:
 
@@ -33,6 +26,14 @@ Of course, you can bring in people to assist, but that is a small step and not a
 
 ---
 
+### General info
+There are three released sizes of GPT-2:
+
+* 124M (default): the "small" model, 500MB on disk.
+* 355M: the "medium" model, 1.5GB on disk.
+* 774M: the "large" model, cannot currently be finetuned with Colaboratory but can be used to generate text from the pretrained model (see later in Notebook)
+*  1558M: the "extra large", true model. Will not work if a K80 GPU is attached to the notebook. (like 774M, it cannot be finetuned).
+   Larger models have more knowledge, but take longer to finetune and longer to generate text. You can specify which base model to use by changing model_name.
 
 ## Exploring further possibilities of GPT2 
 All the activities above are easiest option to get possibility of generating text in any language.
