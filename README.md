@@ -103,5 +103,5 @@ Notebook is divided on universal fuctions whicht  could be easlily used elsewher
 
 
 ### Contact
-Created by: _len.sla_
+Created by: _lencz.sla@gmail.com_
 
