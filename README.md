@@ -1,4 +1,8 @@
 ## Project Name
+
+After a bit more than two years GPT3 is alife and kicking if you want to play with openAI API used for the Chatboot with the help of gradio package here is the [notebook](GPT-3-gradio-RevA.ipynb)
+
+---
 > <p>Finetune a GPT-2 Text-Generating Model with prepared text.<br>
 In this particual case text is concatenation of ten books <br>
 from the field of Management, Leadership and good practices in Business.<br>
