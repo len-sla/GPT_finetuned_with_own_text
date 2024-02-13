@@ -87,7 +87,7 @@ Tokeniser was prepared based on eglish tokeniser structure and polish wiki
 Description of the steps are in the linked jupyter notebook.
 
 
-## 4.  [3 years passed and trying Open Source LLM](llm.MD)
+
 
 ### Technologies
 * Python, 
