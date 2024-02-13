@@ -29,7 +29,7 @@ After 4 years when first time I tried to train GPT2 now it is comming Open sourc
 - Prepared Chat mode (not QA)
 <br><br>
 
-Try yourself [notebook](GPT-3-gradio-RevA.ipynb). This one with LLM was finetuned with pdf indexing two books about 
+Try yourself [notebook](https://github.com/len-sla/GPT_finetuned_with_own_text/blob/main/LlamaIndex_RAG.ipynb). This one with LLM was finetuned with pdf indexing two books about 
 Human Microbiota  in Health and Disease to be sure that topics are not covered by general content of LLM
 
 as llamaindex was undegoing update I had to use temporary legacy imports 
