@@ -60,7 +60,7 @@ This tutorial show how to implement this second option and you will find example
 This will not be so simple because of the Quota of Colab environment.
 
 
-## [After 3 years trying Open Source LLM](llm.MD)
+
 
 
 ## 1.  [wiki_download.ipynb](wiki_download.ipynb)
@@ -85,6 +85,9 @@ Tokeniser was prepared based on eglish tokeniser structure and polish wiki
 
 ## 3.  [finetuning-English-GPT2-language-Polish-HuggingFace-fastaiv2.ipynb ](finetuning-English-GPT2-language-Polish-HuggingFace-fastaiv2.ipynb)
 Description of the steps are in the linked jupyter notebook.
+
+
+## 4.  [3 years passed and trying Open Source LLM](llm.MD)
 
 ### Technologies
 * Python, 
