@@ -86,6 +86,9 @@ Tokeniser was prepared based on eglish tokeniser structure and polish wiki
 ## 3.  [finetuning-English-GPT2-language-Polish-HuggingFace-fastaiv2.ipynb ](finetuning-English-GPT2-language-Polish-HuggingFace-fastaiv2.ipynb)
 Description of the steps are in the linked jupyter notebook.
 
+## .  [3 years after GPT2 Open source LLM coms into play  ](llm.MD)
+Description of the steps are in the linked jupyter [notebook](lamaIndex_RAG.ipynb).
+
 
 
 
