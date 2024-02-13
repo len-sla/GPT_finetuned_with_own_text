@@ -87,7 +87,7 @@ Tokeniser was prepared based on eglish tokeniser structure and polish wiki
 Description of the steps are in the linked jupyter notebook.
 
 ## .  [3 years after GPT2 Open source LLM coms into play  ](llm.MD)
-Description of the steps are in the linked jupyter [notebook](lamaIndex_RAG.ipynb).
+Description of the steps are in the linked jupyter [notebook]([lamaIndex_RAG.ipynb](https://github.com/len-sla/GPT_finetuned_with_own_text/blob/main/LlamaIndex_RAG.ipynb)).
 
 
 
